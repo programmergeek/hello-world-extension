@@ -1,6 +1,6 @@
 {
     "name": "Hello World",
     "description": "Test extension",
-    "version": 1.0,
-    "mainifest_version": 3
+    "version": "1.0",
+    "manifest_version": 3
 }
