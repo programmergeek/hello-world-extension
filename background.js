@@ -1,6 +1,6 @@
-let colour = "#3aa757"
+let color = "#3aa757"
 
 chrome.runtime.onInstalled.addListener(() => {
-    chrome.storage.sync.set({ colour })
-    console.log("Default background colour set to %cgreen", `colour: ${colour}`)
+    chrome.storage.sync.set({ color })
+    console.log("Default background colour set to %cgreen", `colour: ${color}`)
 })
